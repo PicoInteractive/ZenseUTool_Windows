@@ -1,0 +1,29 @@
+PicoZenseUTool_Windows_20190605_V2.4.0.4_DCAM710
+1. SDK version: PicoZenseSDK_Windows_20190605_V2.4.0.4_DCAM710
+2. Optimize CPU loading
+
+PicoZenseUTool_Windows_20190212_V2.3.8.4_DCAM710
+1. SDK version: PicoZenseSDK_Windows_20190212_V2.3.8.4_DCAM710
+2. Add "MappedRGB" function
+3. Add WDR threshold in "UTool.ini"
+4. Add IR_BG checkbox
+
+PicoZenseUTool_Windows_20190104_V2.3.7.7_DCAM710
+1. SDK version: PicoZenseSDK_Windows_20190104_V2.3.7.7_DCAM710
+2. "Color_Map_Max" variable uses depthMax value not effectDepthMax value
+
+PicoZenseUTool_Windows_20190103_V2.3.7.6_DCAM710
+1. SDK version: PicoZenseSDK_Windows_20190103_V2.3.7.6_DCAM710
+2. Optimize the function of datamode change
+3. Optimize point cloud display logic when change datamode
+
+PicoZenseUTool_Windows_20181228_V2.3.7.1_DCAM710
+1. SDK version: PicoZenseSDK_Windows_20181219_V2.3.7.1_DCAM710
+2. Add the function of saving the camera parameters,  the "SaveCameraParams" button is visible, in "usertype = 1"
+
+PicoZenseUTool_Windows_20181219_V2.3.6.0_DCAM710
+1. SDK version:PicoZenseSDK_Windows_20181219_V2.3.6.1_DCAM710
+2. Optimize the function of saving pictures
+3. Datamode combobox match usertype
+4. Repair the no response problem  becose of frequent click on the "Start" button
+
